@@ -1,0 +1,1 @@
+O código PHP define um controlador que manipula operações CRUD de produtos. Métodos como incluir, listar, exibir detalhes, editar e remover produtos são implementados. A renderização das visualizações é feita com um arquivo de template. O controlador também inclui um link para voltar à lista de produtos.
